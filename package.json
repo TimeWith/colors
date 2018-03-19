@@ -1,0 +1,15 @@
+{
+  "name": "@time-with/colors",
+  "version": "1.0.5",
+  "description": "Timewith colors",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "Antonio Brandao <antoniobrandaodesign@gmail.com>",
+  "scripts": {
+    "prepack": "yarn && babel src --out-dir dist --source-maps --presets es2015 && rm -rf node_modules",
+    "postpack": "rm -rf node_modules"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
