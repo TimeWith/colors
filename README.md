@@ -1,4 +1,4 @@
-# Timewith colors
+# TimeWith colors
 
 ## Install
 
