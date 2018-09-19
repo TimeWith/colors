@@ -9,6 +9,8 @@ var green = exports.green = '#7DCE82';
 var orange = exports.orange = '#FF8360';
 
 // greys
+var grey_darker = exports.grey_darker = '#414144';
+var grey_dark = exports.grey_dark = '#606063';
 var grey = exports.grey = '#7D7B7B';
 var grey_medium = exports.grey_medium = '#9B9B9B';
 var grey_light = exports.grey_light = '#E3E2E3';
