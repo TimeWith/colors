@@ -1,7 +1,7 @@
 {
   "name": "@time-with/colors",
-  "version": "1.0.7",
-  "description": "Timewith colors",
+  "version": "1.1.0",
+  "description": "Timewith colours",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "Antonio Brandao <antoniobrandaodesign@gmail.com>",

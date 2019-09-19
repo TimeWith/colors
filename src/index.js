@@ -1,7 +1,11 @@
-// main
+// brand
 export const blue = '#63C1E8'
 export const green = '#7DCE82'
 export const orange = '#FF8360'
+
+// reds
+export const red = '#FF8360'
+export const dark_red = '#FF8360'
 
 // greys
 export const grey_darker = '#414144'
