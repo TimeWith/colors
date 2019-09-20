@@ -3,10 +3,14 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-// main
+// brand
 var blue = exports.blue = '#63C1E8';
 var green = exports.green = '#7DCE82';
 var orange = exports.orange = '#FF8360';
+
+// reds
+var red = exports.red = '#FF8360';
+var dark_red = exports.dark_red = '#FF8360';
 
 // greys
 var grey_darker = exports.grey_darker = '#414144';

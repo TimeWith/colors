@@ -4,8 +4,8 @@ export const green = '#7DCE82'
 export const orange = '#FF8360'
 
 // reds
-export const red = '#FF8360'
-export const dark_red = '#FF8360'
+export const red = '#D0021B'
+export const dark_red = '#BC3131'
 
 // greys
 export const grey_darker = '#414144'
