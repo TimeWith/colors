@@ -11,6 +11,7 @@ export const dark_red = '#BC3131'
 // greys
 export const grey_darker = '#414144'
 export const grey_dark = '#606063'
+export const grey_dark_blueish = '#4B5364'
 export const grey = '#7D7B7B'
 export const grey_medium = '#9B9B9B'
 export const grey_light = '#E3E2E3'
@@ -21,3 +22,6 @@ export const grey_disabled = '#CAD9F1'
 export const facebook = '#3b5998'
 export const twitter = '#2aa1f3'
 export const google = '#dc4c41'
+
+// writing
+export const pale_yellow = '#FCF9DE'
